@@ -4,7 +4,7 @@
 
 This graphic represents a simplified model of how memory is allocated when a computer program is run. All of the instructions and the variables to be computed are contained within such a memory block. 
 
-​              ![allocate-explained.png](https://images.squarespace-cdn.com/content/v1/60043bedc8cd610112a582cd/1619537898502-LT0E4GD0PDNAJQSFHW4L/allocate-explained.png?format=500w)            
+​              ![](../../assets/allocate-explained.png)            
 
 There are four broad types of memory within a program: global data & instructions (the template for the program’s execution and data which lives throughout the program’s life), stack and heap (different styles of memory which have their pros and cons for size and speed) and unallocated portion, which may be claimed by the stack or the heap. In this case, we can visualize the heap growing downwards, and the stack growing upwards into the unallocated space.
 

@@ -10,7 +10,7 @@ Our own models of the world are generally flawed; we make good decisions most of
 
 Consider the following example of choosing whether to drink coffee or water at a given moment. 
 
-​              ![evaluate-explained.png](https://images.squarespace-cdn.com/content/v1/60043bedc8cd610112a582cd/1619644525540-JDMWP2FRHH63CWHXJKX9/evaluate-explained.png?format=750w)            
+​              ![evaluate-explained.png](../../assets/evaluate-explained.png)            
 
 Here, the a dark square means the given combination is experienced frequently, and a light square, infrequently. In this example, we see that the person generally drinks both coffee and water when they need to (dark squares = high proportion of overall choices), but there are occasions there they make the wrong decision, compared to what they should have done (light squares = low proportion of overall choices). In the ideal case, the boxes on the diagonal should be dark, and the remaining boxes (*off-diagonal*) should be light.
 

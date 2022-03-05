@@ -2,17 +2,17 @@
 
 The color cards in this deck are grouped into six *classes*, each named with a term from computer science, which loosely describes the qualities of their respective cards.
 
-![all](C:\Users\Ed\OneDrive\Documents\2021\cards\all.png)
+![all](../assets/all.png)
 
 Within these classes are three axes, whose cards lie opposite each other and whose colors and themes are complementary. The three axes here are similar in intent to the categories found in frameworks such as the Myers-Briggs Type Indicator. As opposed to fixed personality traits, these axes instead present a range of ways of *being*. These are states that we can ideally access at any time, and which we can move fluidly between. It is most effective to strike a balance between each, and not get trapped at an extreme. For each pair, there are some terms which give some more depth to that edge of the polarity.
 
-​                  ![rg](C:\Users\Ed\OneDrive\Documents\2021\cards\rg.png)
+​                  ![rg](../assets/rg.png)
 
 ​                         
 
-​              ![yp](C:\Users\Ed\OneDrive\Documents\2021\cards\yp.png)
+​              ![yp](../assets/yp.png)
 
-![ob](C:\Users\Ed\OneDrive\Documents\2021\cards\ob.png)
+![ob](../assets/ob.png)
 
 Here’s a brief description of why each class has been named as such.
 

@@ -8,15 +8,15 @@ In this card, we see the true underlying phenomena we wish to discover (in this 
 
 If we only use the dark points and draw lines between them from left to right, all we will be left with is a horizontal line, which is a pretty far cry from the wave. 
 
-​              ![interp1-explain.png](https://images.squarespace-cdn.com/content/v1/60043bedc8cd610112a582cd/1619546081885-VCBEPITUPYVQ0LNAXN6V/interp1-explain.png?format=500w)            
+​              ![interp1-explain.png](../../assets/interp1-explain.png)            
 
 If we add the medium points to the mix, and draw lines from left to right including both the solid and shaded points, you will see that the peaks and valleys start to emerge. This is a better approximation, but still not very expressive. 
 
-​              ![interp2-explain.png](https://images.squarespace-cdn.com/content/v1/60043bedc8cd610112a582cd/1619546095760-UE5SXE6315SJYF43QBG5/interp2-explain.png?format=750w)            
+​                 ![interp2-explain.png](../../assets/interp2-explain.png)            
 
 Finally, if we include the light points, a curvature starts to emerge which looks much more wave-like. 
 
-​              ![interp3-explain.png](https://images.squarespace-cdn.com/content/v1/60043bedc8cd610112a582cd/1619546112244-E83O6624KFWPH57NKNSL/interp3-explain.png?format=750w)            
+​                 ![interp3-explain.png](../../assets/interp3-explain.png)            
 
 # 🧩
 

@@ -4,7 +4,7 @@
 
 The flow pattern here is known as a Karman Vortex Street, and captures the dynamics of turbulence from an obstruction to a fluid flow from left to right. The phenomenon is visible at macro and micro scales alike, from cloud patterns on the downwind side of islands in the ocean, to smoke trails around an obstacle in a lab environment.
 
-​              ![Karman Vortex Street cloud pattern off South Korea (source)](https://images.squarespace-cdn.com/content/v1/60043bedc8cd610112a582cd/1619823459054-YVTIC8VAR1056SE31ABH/karman.jpg?format=750w)            
+​              ![Karman Vortex Street cloud pattern off South Korea (source)](../../assets/karman.jpg)            
 
 Karman Vortex Street cloud pattern off South Korea ([source](https://commons.wikimedia.org/wiki/File:Jeju_Do_Von_Karman_Vortex_street_Mar_2_2011_02.35(UTC).jpg))
 

@@ -4,7 +4,7 @@
 
 This card captures the essence of what it is to move through the world as a conscious being. This model is the basis for the branch of machine learning known as reinforcement learning, and crosses over into behavioral psychology and cognitive science too. 
 
-​              ![learn-explained.png](https://images.squarespace-cdn.com/content/v1/60043bedc8cd610112a582cd/1619540877234-8HH7OKOR2TH3CDWOXFW4/learn-explained.png?format=500w)            
+​              ![learn-explained.png](../../assets/learn-explained.png)            
 
 In this model, an agent performs actions **a** in an environment, and receives feedback in the form of a changed environment (state, **s**) and rewards **r**, which may be positive or negative. 
 

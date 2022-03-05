@@ -4,7 +4,7 @@
 
 A step function as depicted on this card is a tool for understanding the behavior of a dynamic system (one which changes its state over time) subject to an external force. We see three types of response: underdamped, critically damped and overdamped, ranging from most to least oscillatory. 
 
-​              ![step-explained.png](https://images.squarespace-cdn.com/content/v1/60043bedc8cd610112a582cd/1619467595024-RG23A2BG75E9EIBSJE32/step-explained.png?format=500w)            
+​              ![step-explained.png](../../assets/step-explained.png)            
 
 While the underdamped case is fast, it is rather unstable. At the other extreme, the overdamped case is simply too slow. The ‘Goldilocks’ response, known as critically damped, has a mix of speed and precision.
 

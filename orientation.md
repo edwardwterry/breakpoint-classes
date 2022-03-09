@@ -20,6 +20,6 @@ The text beside the pen contains question prompts which may facilitate ongoing r
 
 In some cases there are links to supplementary material to help you deepen your knowledge of a concept.
 
-#### If you want to learn about the way the *classes* are related, click [here](https://www.breakpoint-academy.com/classes/structure-layout).
+#### If you want to learn about the way the *classes* are related, click [here](classes/structure-layout.md).
 
-#### If you want to head straight to the supporting material for each card, click [here](https://www.breakpoint-academy.com/classes).
+#### Return [home](index.md).

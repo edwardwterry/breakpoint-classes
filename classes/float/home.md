@@ -1,0 +1,5 @@
+[<img src="../../assets/16-FLOAT-LEARN.jpg" height="200" />](classes/float/learn.md)
+[<img src="../../assets/17-FLOAT-DRIFT.jpg" height="200" />](classes/float/drift.md)
+[<img src="../../assets/18-FLOAT-INTERPOLATE.jpg" height="200" />](classes/float/interpolate.md)
+[<img src="../../assets/19-FLOAT-RECURSE.jpg" height="200" />](classes/float/recurse.md)
+[<img src="../../assets/20-FLOAT-CIRCULATE.jpg" height="200" />](classes/float/circulate.md)

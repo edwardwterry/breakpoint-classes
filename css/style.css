@@ -1,0 +1,22 @@
+body {
+    font-family: 'Sen';
+    padding: 2vw;
+  }
+  
+  .header {
+      font-size: 18pt;
+      color: black;
+  }
+  
+  .text {
+      color: black;      
+      font-size: 14pt;
+      text-align: justify;
+  }
+  @media (min-width: 30rem) {
+    img {
+      float: right;
+      max-width: 30%;
+      margin: 0 0 1rem 1rem;
+    }
+  }

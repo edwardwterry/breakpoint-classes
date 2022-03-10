@@ -1,17 +1,24 @@
 body {
     font-family: 'Sen';
     padding: 2vw;
+    background-color: white;
   }
   
   .header {
       font-size: 18pt;
       color: black;
   }
+
+  .subheading {
+    font-size: 16pt;
+    color: black;
+  }
   
   .text {
       color: black;      
       font-size: 14pt;
       text-align: justify;
+      word-wrap: normal;
   }
   @media (min-width: 30rem) {
     img {

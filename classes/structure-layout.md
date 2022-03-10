@@ -16,28 +16,28 @@ Within these classes are three axes, whose cards lie opposite each other and who
 
 Here’s a brief description of why each class has been named as such.
 
-#### Assert
+### Assert
 
 When we’re testing or running code, we can add an *assert* statement which only allows the program to continue if the included condition is met. This class represents states of being which are unequivocal, immediate and powerful.
 
-#### Float
+### Float
 
 A *floating-point number* is a way of representing a number that is not an integer (a whole number). This class represents unstructured, divergent thinking.
 
-#### Execute
+### Execute
 
 To execute a program is to run it. This class brings together concepts of getting the job done with clarity and ease, even in the midst of real-world ambiguity. 
 
-#### Branch
+### Branch
 
 In a series of *if statements*, which allow code to run if certain conditions are met, each of these options is known as a branch. This class represents the practice of considering alternatives and how they relate to each other.
 
-#### Interface
+### Interface
 
 In computer science and engineering, an interface defines the connection between otherwise isolated components, such as a USB device to a computer. This class presents concepts of relationship with others where we may not know what is going on inside them.
 
-#### Debug
+### Debug
 
 The use of the term debugging to mean finding the cause of a malfunctioning program arose from the case of finding a moth in an early mainframe computer. This class focuses on concepts of self-reflection.
 
-#### Return [home](index.md).
+Return [home](index.md).

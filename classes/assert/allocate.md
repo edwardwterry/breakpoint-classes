@@ -24,3 +24,5 @@ To realize a bold vision means taking up space than you may have been accustomed
 # 📚
 
 Learn about [Stack and Heap](https://icarus.cs.weber.edu/~dab/cs1410/textbook/4.Pointers/memory.html) memory.
+
+Return [home](../index.md).

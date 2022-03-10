@@ -20,6 +20,6 @@ The text beside the pen contains question prompts which may facilitate ongoing r
 
 In some cases there are links to supplementary material to help you deepen your knowledge of a concept.
 
-#### If you want to learn about the way the *classes* are related, click [here](classes/structure-layout.md).
+If you want to learn about the way the *classes* are related, click [here](structure-layout.md).
 
-#### Return [home](index.md).
+Return [home](index.md).

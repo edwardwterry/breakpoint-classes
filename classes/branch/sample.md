@@ -17,3 +17,5 @@ The teaching of this card is that when we wish to understand how something works
 # 📚
 
 [Watch](https://www.youtube.com/watch?v=6YDHBFVIvIs) a Galton Board in action.
+
+Return [home](../index.md).

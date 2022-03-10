@@ -18,3 +18,5 @@ The transfer of knowledge across unrelated domains is one of the most powerful c
 # 📚
 
 [Watch](https://www.youtube.com/watch?v=Gu0MkmynWkw) an explanation of the inner layers of a Convolutional Neural Network.
+
+Return [home](../index.md).

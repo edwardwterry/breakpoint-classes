@@ -19,3 +19,5 @@ Armed with this information, we can find out what deserves our attention. If the
 # 🖋️
 
 - How might you apply this tool to better understanding other major life decisions, such as selecting jobs, clients or dating partners? Bear in mind the framework of “what I actually did/didn’t select” versus “what I should/shouldn’t have selected” (according to hindsight, or some other feedback).
+
+Return [home](../index.md).

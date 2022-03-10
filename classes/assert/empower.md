@@ -15,3 +15,5 @@ Our aspirations for more of what we truly desire are most frequently hampered by
 - What aspects of your life are you still seeking permission for, and whose permission do you feel you would have to seek to proceed?
 - How has a healthy level of caution served you in the past? 
 - How has being over-cautious hindered you in the past?
+
+Return [home](../index.md).

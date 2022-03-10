@@ -19,3 +19,5 @@ Whether we seek change or have it brought to us, it can be represented as a step
 # 📚
 
 [Watch](https://www.youtube.com/watch?v=fusr9eTceEo) a video showing different step response behaviors for different sets of input parameters.
+
+Return [home](../index.md).

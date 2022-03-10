@@ -12,3 +12,5 @@ Taking an ensemble approach to decision making is equivalent to asking a range o
 
 - Think of a major decision you made in the past. Might you have chosen differently if you’d had access to a certain perspective? 
 - How do you decide who you allow to influence your decisions?
+
+Return [home](../index.md).

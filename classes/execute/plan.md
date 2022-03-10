@@ -18,3 +18,5 @@ To the extent that the work of personal development is to recognize your present
 # 📚
 
 [Visualize](https://www.youtube.com/watch?v=19h1g22hby8) how the A* algorithm finds paths for a variety of environments.
+
+Return [home](../index.md).

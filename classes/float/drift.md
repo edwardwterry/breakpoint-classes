@@ -16,3 +16,5 @@ In the technical context, drift is something we generally wish to avoid. A robot
 # 📚
 
 [Watch](https://www.youtube.com/watch?v=SeNLUW79_-c) a demonstration of the use of simultaneous localization and mapping on a mobile robot.
+
+Return [home](../index.md).

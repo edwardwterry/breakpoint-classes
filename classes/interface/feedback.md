@@ -20,3 +20,5 @@ Feedback must be frequent and direct to be effective. This card reminds us that 
 # 📚
 
 [Watch](https://www.youtube.com/watch?v=5NVjIIi9fkY) another fun example of a feedback control system: a toaster.
+
+Return [home](../index.md).

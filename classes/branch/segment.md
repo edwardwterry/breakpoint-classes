@@ -23,3 +23,5 @@ Secondly, it can be viewed as a representation of a technique in psychology call
 [Play](http://alexbeutel.com/webgl/voronoi.html) with this simulator of a Voronoi diagram.
 
 [Watch](https://www.youtube.com/watch?v=pVIsLgAqXVI) examples of Voronoi patterns in real life.
+
+Return [home](../index.md).

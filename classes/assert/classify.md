@@ -19,3 +19,5 @@ This graphic reminds us that maintaining healthy boundaries in matters of princi
 # 📚
 
 - [Watch](https://www.youtube.com/watch?v=8TuRJg76sW8) an introduction to classification models
+
+Return [home](../index.md).

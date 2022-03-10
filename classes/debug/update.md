@@ -22,3 +22,5 @@ This is a compact representation of what it means to be open- versus closed-mind
 # 📚
 
 [Learn](https://www.youtube.com/watch?v=mwn8xhgNpFY) more about Kalman Filters.
+
+Return [home](../index.md).

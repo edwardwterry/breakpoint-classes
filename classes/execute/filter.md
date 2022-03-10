@@ -15,3 +15,5 @@ Filters are absolutely necessary for us to be able to function in the real world
 - Try this short meditation practice: choose an object around you and place a gentle focus on it, blocking out everything else around it. After two minutes, switch to be looking at the same object, but instead noticing everything except the object itself. What did you notice?
 
 - Go to your email inbox and unsubscribe from five mailing lists you don’t need right now. 
+
+Return [home](../index.md).

@@ -13,3 +13,5 @@ This is not inevitable. It can be addressed by approaching the conversation from
 # 🖋️
 
 - To get a feel for the breadth of interpretations available of another’s words, consider this partnered exercise. Choose an object in the room and describe an aspect of it in different tones of voice and with different emphasis. Ask your partner to reflect back how each one made them feel and what their instinctive reaction was, then switch places.
+
+Return [home](../index.md).

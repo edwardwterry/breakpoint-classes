@@ -15,3 +15,5 @@ The teaching of this card is to shift something which might be complex and intra
 # 📚
 
 [Watch](https://youtu.be/5gEattuH3tI?t=456) an example of where linearization can be useful.
+
+Return [home](../index.md).

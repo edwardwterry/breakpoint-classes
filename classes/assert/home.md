@@ -11,3 +11,5 @@ When we’re testing or running code, we can add an *assert* statement which onl
 [<img src="../../assets/04-ASSERT-ALLOCATE.jpg" height="200" />](allocate.md)
 
 [<img src="../../assets/05-ASSERT-STEP.jpg" height="200" />](step.md)
+
+Return [home](../index.md).

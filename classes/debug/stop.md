@@ -17,3 +17,5 @@ When air moves around an airfoil, a stagnation point naturally arises; the flow 
 # 📚
 
 [Watch](https://www.youtube.com/watch?v=UqBmdZ-BNig) an example of smoke passing around an airfoil.
+
+Return [home](../index.md).

@@ -19,3 +19,5 @@ A more accessible way to understand this concept is to consider your own social 
 # 📚
 
 [Learn](https://www.youtube.com/watch?v=8UZlwhiWKmA) about communication mesh networks.
+
+Return [home](../index.md).

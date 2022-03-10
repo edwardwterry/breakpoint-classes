@@ -4,4 +4,4 @@ This card deck is a culmination of my many years of exposure to computer science
 
 This card deck can be appreciated by both a technical and non-technical audience. If you have a technical background and have less exposure to the personal development angle, I intend that the illustrations and concepts can act as a bridge to a new practice, which has been immensely impactful for me. I hope that if you have the type of mind that likes to build things from verifiable first principles, you will be able to make the connection to concepts which may have felt too esoteric until being framed in a more familiar way. If you do not have a technical background, I hope that you will be able to pick up some useful tidbits of knowledge and learn about into some of the principles which are found in much of the technology that you use every day with the help of the organic illustrations. The reflection prompts are intended to be universal.
 
-Return [home](classes.md)
+Return [home](index.md).

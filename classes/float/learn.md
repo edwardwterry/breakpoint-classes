@@ -20,3 +20,5 @@ We have got to where we are as humans by following this model, and at many times
 # 📚
 
 [Learn](https://www.youtube.com/watch?v=e3Jy2vShroE) more about Reinforcement Learning.
+
+Return [home](../index.md).

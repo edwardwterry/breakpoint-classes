@@ -15,3 +15,5 @@ If we consider each person as a point source, we can consider each interaction t
 # 📚
 
 [Watch](https://youtu.be/Iuv6hY6zsd0?t=269) a live demonstration of an interference pattern in water, to help visualize a famous physics experiment to demonstrate the dual nature of light as a particle and wave simultaneously.
+
+Return [home](../index.md).

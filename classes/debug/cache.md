@@ -12,3 +12,5 @@ As we go about our lives, we are constantly drawing on prior experience, skills 
 
 - What are examples of experience or skills which would enhance your life if you were able to access them more efficiently?
 - What is a repetitive task in your life which drains your energy which you could consider delegating?
+
+Return [home](../index.md).

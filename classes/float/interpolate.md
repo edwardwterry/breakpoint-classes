@@ -25,3 +25,5 @@ Like the example presented in the card, we rarely have enough information to ful
 # 🖋️
 
 - What is an example of a situation where you had to ‘join the dots’ from the limited evidence you had available to you, in order to resolve it?
+
+Return [home](../index.md).

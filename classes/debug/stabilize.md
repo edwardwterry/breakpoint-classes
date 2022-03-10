@@ -12,3 +12,5 @@ Finding stability in your relationship, career or living situation implies a lev
 
 - What are your long-term goals which are being delayed because the circumstances which might otherwise support them are too unstable? 
 - If there are multiple circumstances which depend on each other, is there one which would pave the way for the others to unfold, if it was resolved?
+
+Return [home](../index.md).

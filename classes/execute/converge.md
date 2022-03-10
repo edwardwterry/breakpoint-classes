@@ -19,3 +19,5 @@ Many of the problems we encounter in life arise out of complex and ambiguous sys
 # 📚
 
 [Watch](https://www.youtube.com/watch?v=IHZwWFHWa-w) this beautiful video about Gradient Descent.
+
+Return [home](../index.md).

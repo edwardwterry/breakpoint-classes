@@ -24,3 +24,5 @@ So if you wish to accomplish something complex, start early!
 # 📚
 
 [Watch](https://www.youtube.com/watch?v=1_SwKG4Zt60) a very clever and intuitive explanation of exponential growth, which is equivalent to compounding. 
+
+Return [home](../index.md).

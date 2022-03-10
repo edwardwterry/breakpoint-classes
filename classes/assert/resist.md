@@ -16,3 +16,5 @@ This card represents obduracy, perseverance and strength in the face of external
 # 📚
 
 [Watch](https://www.youtube.com/watch?v=KtGL4yYHCj8) this video to see the result of choosing the wrong resistor for a given application.
+
+Return [home](../index.md).

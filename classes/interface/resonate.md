@@ -19,3 +19,5 @@ When we say we resonate with a person or idea, we are describing the excitation 
 # 📚
 
 [Learn](https://youtu.be/F6-EaZobHNk) about the link between resonant frequencies and Bode plots.
+
+Return [home](../index.md).
